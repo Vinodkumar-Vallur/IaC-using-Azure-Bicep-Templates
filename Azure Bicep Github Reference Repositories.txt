@@ -1,0 +1,11 @@
+https://github.com/topics/bicep-templates
+https://github.com/Azure/bicep
+https://github.com/Azure/ResourceModules
+https://github.com/Azure/azure-docs-bicep-samples
+https://github.com/ElYusubov/AWESOME-Azure-Bicep
+https://github.com/Azure/azure-quickstart-templates/blob/master/quickstarts/microsoft.machinelearningservices/machine-learning-end-to-end-secure/modules/storage.bicep
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-github-actions?tabs=CLI
+https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-github-actions
+https://azure.microsoft.com/en-in/resources/templates/
+https://microsoft.github.io/PartsUnlimited/iac/200.2x-IaCLabsM03ARM.html
