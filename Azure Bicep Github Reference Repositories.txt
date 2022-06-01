@@ -13,3 +13,4 @@ https://microsoft.github.io/PartsUnlimited/iac/200.2x-IaCLabsM03ARM.html
 
 Documentation Links:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/
+
