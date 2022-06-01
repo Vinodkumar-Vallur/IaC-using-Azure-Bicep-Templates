@@ -9,3 +9,7 @@ https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actio
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-github-actions
 https://azure.microsoft.com/en-in/resources/templates/
 https://microsoft.github.io/PartsUnlimited/iac/200.2x-IaCLabsM03ARM.html
+
+
+Documentation Links:
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/
